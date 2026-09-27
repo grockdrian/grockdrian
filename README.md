@@ -1,3 +1,3 @@
 <p align="center">
-<img width="400" height="400" src="https://media1.tenor.com/m/yXhPTTXKtNsAAAAC/rocky-hello-rocky.gif"/>
+<img width="300" height="300" src="https://media1.tenor.com/m/yXhPTTXKtNsAAAAC/rocky-hello-rocky.gif"/>
 </p>
